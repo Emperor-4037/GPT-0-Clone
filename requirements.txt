@@ -1,9 +1,0 @@
-transformers
-torch
-pandas
-scikit-learn
-flask
-streamlit
-gunicorn
-datasets
-requests
